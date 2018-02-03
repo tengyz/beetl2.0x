@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+logs-test/
+logs/
+target/
+
+/beetl-core/doc
+/beetl-core/build
